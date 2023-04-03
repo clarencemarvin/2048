@@ -30,37 +30,6 @@ If you enter "4", you will need to reach 2048 points to win (original).
 
 How to Play the Game
 1. There are 3 choices of grid; 3*3 grid, 4*4 grid, and 5x5 grid.
-  1. 3x3 Grid
-      ┏━━━━━┳━━━━━┳━━━━━┓
-      ┃     ┃    2┃     ┃
-      ┣━━━━━╋━━━━━╋━━━━━┫
-      ┃     ┃     ┃    4┃
-      ┣━━━━━╋━━━━━╋━━━━━┫
-      ┃     ┃     ┃     ┃
-      ┗━━━━━┻━━━━━┻━━━━━┛
-    2. 4x4 Grid
-      ┏━━━━━┳━━━━━┳━━━━━┳━━━━━┓
-      ┃     ┃    2┃     ┃     ┃
-      ┣━━━━━╋━━━━━╋━━━━━╋━━━━━┫
-      ┃     ┃     ┃     ┃    4┃
-      ┣━━━━━╋━━━━━╋━━━━━╋━━━━━┫
-      ┃     ┃     ┃     ┃     ┃
-      ┣━━━━━╋━━━━━╋━━━━━╋━━━━━┫
-      ┃     ┃     ┃     ┃     ┃
-      ┗━━━━━┻━━━━━┻━━━━━┻━━━━━┛
-
-  3. 5x5 Grid
-      ┏━━━━━┳━━━━━┳━━━━━┳━━━━━┳━━━━━┓
-      ┃     ┃     ┃     ┃     ┃     ┃
-      ┣━━━━━╋━━━━━╋━━━━━╋━━━━━╋━━━━━┫
-      ┃     ┃     ┃     ┃     ┃     ┃
-      ┣━━━━━╋━━━━━╋━━━━━╋━━━━━╋━━━━━┫
-      ┃     ┃    4┃     ┃     ┃     ┃
-      ┣━━━━━╋━━━━━╋━━━━━╋━━━━━╋━━━━━┫
-      ┃     ┃     ┃    2┃     ┃     ┃
-      ┣━━━━━╋━━━━━╋━━━━━╋━━━━━╋━━━━━┫
-      ┃     ┃     ┃     ┃     ┃     ┃
-      ┗━━━━━┻━━━━━┻━━━━━┻━━━━━┻━━━━━┛
 2. The grid can be filled with any number. Initially two random cells are filled with either 2 or 4 in it. The rest of the cells are empty.
 3. When you see “Move (W, A, S, D):”
  - Enter "W" to move the number up.
